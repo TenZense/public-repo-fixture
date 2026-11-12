@@ -1,0 +1,3 @@
+# Changelog
+
+- Added CHANGELOG.md to track notable changes.
