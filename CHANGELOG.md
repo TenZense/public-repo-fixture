@@ -1,0 +1,3 @@
+# Changelog
+
+- Added changelog file.
