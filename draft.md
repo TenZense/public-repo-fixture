@@ -1,3 +1,3 @@
-# Draft
+# Redacted summary
 
-Task details withheld.
+No task details are included in this file.
