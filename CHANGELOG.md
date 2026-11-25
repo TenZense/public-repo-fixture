@@ -1,3 +1,1 @@
-# Changelog
-
 - Initial changelog.
